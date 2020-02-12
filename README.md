@@ -1,6 +1,6 @@
-#Fractal
+ï»¿# Fractal
 
-Fractal Image ÀÌ¹ÌÁö¸¦ ±×·ÁÁİ´Ï´Ù.
+Fractal Image ì´ë¯¸ì§€ë¥¼ ê·¸ë ¤ì¤ë‹ˆë‹¤.
 
 
 Sierpinski triangle reference : https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle
